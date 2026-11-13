@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Status](https://img.shields.io/badge/Status-Learning%20in%20Progress-orange)
 
-A hands-on collection of Jupyter notebooks documenting my journey through **CampusX's 100 Days of Machine Learning**. The repository currently includes **57 notebooks** covering data handling, exploratory data analysis, feature engineering, preprocessing, and foundational machine-learning algorithms.
+A hands-on collection of Jupyter notebooks documenting my journey through **CampusX's 100 Days of Machine Learning**. The repository currently includes **notebooks** covering data handling, exploratory data analysis, feature engineering, preprocessing, and foundational machine-learning algorithms.
 
 The notebooks combine explanations, experiments, visualizations, and implementations—including selected algorithms built from scratch. This is a learning repository that grows as topics are studied; the numbered folders reflect the lessons currently included.
 
